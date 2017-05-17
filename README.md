@@ -1,1 +1,1 @@
-#Simple script for jira
+Simple script for jira
