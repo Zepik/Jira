@@ -1,3 +1,4 @@
+//Working on jira 7.3.2
 import com.atlassian.jira.component.ComponentAccessor
 import com.atlassian.jira.issue.MutableIssue
 import com.atlassian.jira.issue.fields.CustomField
