@@ -1,1 +1,1 @@
-# Jira
+#Simple script for jira
